@@ -12,6 +12,8 @@ For this assignment we were prompted to do a ecommerce back end for companies, w
 * When I run post, put, and delete in insomnia some fo the functions work while others dont.
 * After once I am finished i am able to exit  and close the running application
 
-[GitHub](https://github.com/rdiego56)
 
-[VideoOfAssignment](https://github.com/rdiego56/E-commerce-backend/assets/128023854/b0bd8956-f369-4c27-891f-611f9a3d40ac)
+# GitHub repository for challenge 13
+
+
+[VideoOfAssignment](https://github.com/rdiego56/E-commerce-backend/assets/128023854/ae8d1167-f83f-4410-b1c7-6e1f47bed203)
